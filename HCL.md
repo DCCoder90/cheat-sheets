@@ -321,7 +321,7 @@
 
 ### Modules
 
-Break down complex configurations into smaller, reusable pieces. Think functions or classes for infrastructure.
+Break down complex configurations into smaller, and more reusable pieces. Think functions or classes for infrastructure.
 
   * **Using a Module:**
     ```hcl

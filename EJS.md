@@ -61,7 +61,7 @@ Every EJS journey starts with those magical `<% %>` tags. These are the portals 
 ### Data & Logic
 
   * **Accessing Data:**
-    Variables passed from serverside code (e.g., an Express `res.render('template', { user: user, products: products })`) are directly accessible within the EJS template.
+    Variables passed from server-side code (e.g., an Express `res.render('template', { user: user, products: products })`) are directly accessible within the EJS template.
 
     ```ejs
     <h2>Product List</h2>
@@ -86,7 +86,7 @@ Every EJS journey starts with those magical `<% %>` tags. These are the portals 
     ```
 
   * **Loops (`forEach`, `for`):**
-    Render lists of items dynamically. `forEach` is ofen cleaner for arrays.
+    Render lists of items dynamically. `forEach` is often cleaner for arrays.
 
     ```ejs
     <h3>Users:</h3>
