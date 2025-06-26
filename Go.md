@@ -118,7 +118,7 @@ Go is statically typed, but does support type inference for added flexibility.
         }
         delete(userRoles, "guest") // Remove an element
         ```
-      * **Structs:** Group related fields (of different types) into a single unit. Think as lightweight objects without methods in the OOP sense.
+      * **Structs:** Group related fields (of different types) into a single unit. Think of them as lightweight objects without methods in the OOP sense.
         ```go
         type User struct { // Define a 'User' struct
             ID        int
