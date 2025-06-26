@@ -12,11 +12,11 @@ Dive into these guides to refresh your memory or learn new tricks!
 
 | Cheat Sheet                | Description                                                                                                                                        |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| HCL Cheat Sheet            | HashiCorp Configuration Language! Master blocks, variables, expressions, and dynamic infrastructure-as-code patterns. Make your config files sing! |
-| Golang Cheat Sheet         | Navigate variables, functions, structs, interfaces, and unlock the magic of Go's concurrency with goroutines and channels.                         |
-| Markdown Cheat Sheet       | Transform plain text into beautiful, readable documentation with headings, lists, code blocks, tables, and GitHub Flavored Markdown tricks.        |
-| EJS Cheat Sheet            | Inject data and logic into your web pages with Embedded JavaScript, mastering output tags, conditionals, loops, and partials.                      |
-| GitHub Actions Cheat Sheet | Craft powerful CI/CD pipelines with GitHub Actions, from basic builds and tests to complex multi-job deployments and reusable workflows.           |
+| [HCL Cheat Sheet](HCL.md)            | HashiCorp Configuration Language! Master blocks, variables, expressions, and dynamic infrastructure-as-code patterns. Make your config files sing! |
+| [Golang Cheat Sheet](Go.md)         | Navigate variables, functions, structs, interfaces, and unlock the magic of Go's concurrency with goroutines and channels.                         |
+| [Markdown Cheat Sheet](Md.md)       | Transform plain text into beautiful, readable documentation with headings, lists, code blocks, tables, and GitHub Flavored Markdown tricks.        |
+| [EJS Cheat Sheet](EJS.md)            | Inject data and logic into your web pages with Embedded JavaScript, mastering output tags, conditionals, loops, and partials.                      |
+| [GitHub Actions Cheat Sheet](GHA.md) | Craft powerful CI/CD pipelines with GitHub Actions, from basic builds and tests to complex multi-job deployments and reusable workflows.           |
 
 ## ⚡ How to Use
 1. Clone this repo: `git clone https://github.com/DCCoder90/dev-cheatsheets.git`
