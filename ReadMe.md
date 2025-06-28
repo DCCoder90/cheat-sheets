@@ -17,6 +17,7 @@ Dive into these guides to refresh your memory or learn new tricks!
 | [Markdown Cheat Sheet](Md.md)       | Transform plain text into beautiful, readable documentation with headings, lists, code blocks, tables, and GitHub Flavored Markdown tricks.        |
 | [EJS Cheat Sheet](EJS.md)            | Inject data and logic into your web pages with Embedded JavaScript, mastering output tags, conditionals, loops, and partials.                      |
 | [GitHub Actions Cheat Sheet](GHA.md) | Craft powerful CI/CD pipelines with GitHub Actions, from basic builds and tests to complex multi-job deployments and reusable workflows.           |
+| [Python Cheat Sheet](python.md) | Master the fundamentals of Python, from basic syntax, data types, and control flow to functions, comprehensions, and object-oriented programming.           |
 
 ## ⚡ How to Use
 1. Clone this repo: `git clone https://github.com/DCCoder90/dev-cheatsheets.git`
